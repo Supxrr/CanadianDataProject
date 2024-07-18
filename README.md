@@ -1,4 +1,4 @@
-# Group Project - Evan Bucholski 
+# Evan Bucholski 
 
 This is a README file to inform the basics of what the program does and acomplishes and inform of how to run each section accordingly to get the expected outputs.
 
